@@ -1,38 +1,48 @@
-# Hello, I'm Ashwin Kumar Muniswamy 👋
+# Hello, I'm Ashwin Kumar Muniswamy
 
-I'm a passionate Software Test Engineer currently pursuing my Master's in Computer Networking from NC State. Welcome to my GitHub profile!
+I have completed my Master's in Computer Networking from NC State. I am interested in Software Development and integrating AI agents.
 
-## About Me
+## Education
 
-- 🎓 I hold a degree in Electronics and Communication Engineering from Amrita School of Engineering.
-- 💼 Currently working as a QA Engineer Intern at TestPro.
-- 🌱 I'm constantly learning and exploring new technologies.
-- 🔭 I'm passionate about ensuring quality and continuous improvement in software development.
+- **M.S. Computer Networking**, North Carolina State University (May 2025)
+  Relevant Coursework: Linux Networking, Software Engineering, Object Oriented Design and Development
 
-## My Tech Stack
+- **B.Tech in Electronics & Communication**, Amrita School of Engineering, India (May 2019)
 
-- 💻 Languages: Python, Java, C
-- 🚀 Frameworks: Selenium (for automated testing), Tkinter (for GUI development)
-- 🌐 Web Technologies: HTML, CSS, JavaScript, XML, REST API
-- 🛠 Tools: Jira, Zephyr, Postman, BrowserStack, Chrome DevTools, DBeaver, ChatGPT
+## Technical Skills
 
-## Projects
+- **Languages**: Python, Ruby, JavaScript  
+- **Front-End**: React, Bootstrap 5, Materialize CSS  
+- **Back-End**: Ruby on Rails, Django, Next.js, FastAPI  
+- **AI/LLM Tools**: LangChain, Hugging Face, AutoGen, LangGraph, OpenAI, CrewAI  
+- **Databases**: PostgreSQL, MySQL, SQLite, ChromaDB, FAISS  
+- **DevOps/Cloud**: AWS, Docker, Kubernetes, Git, Ansible, Puppet  
+- **Testing**: RSpec, Postman, Pytest, Zephyr, BrowserStack  
+- **Networking & Protocols**: TCP/IP, OSPF, BGP, EIGRP, VLAN, VPN, IPv6
 
-Here are some of the projects I've been working on:
+## Work Experience
 
-- 🌐 [Koel - Music Streaming App (Web)](link-to-koel-project): Conducted testing for a music playlist web tool, involving account creation, customer data validation, UI/UX, and compatibility testing.
-- 🚀 [Wire - Communications App (Mobile)](link-to-wire-project): Conducted comprehensive testing of outbound and inbound communication, including messaging, groups, and video calls.
-- 🎨 [Independent Network Application](link-to-network-project): Developed a command line subnet calculator in Python.
+### Software Engineer – Cognizant (Aug 2019 – Dec 2022)
 
-## Let's Connect
+## Featured Projects
 
-- 📫 Reach me at ak.muniswamy2023@gmail.com
-- 🌐 Visit my [LinkedIn](https://www.linkedin.com/in/akumarm23/)
+### **AI-Driven SaaS Project Management Platform** (Jan – Apr 2025)  
+*Ruby on Rails, PostgreSQL, LangChain, OpenAI API*  
+- Built LLM-powered assistants for sprint planning and Kanban automation, increasing team productivity by 65%.
 
-## Fun Facts
+### **Financial Stock Tracker – AI Investment Advisor** (Aug – Dec 2024)  
+*Rails, LangChain, Hugging Face, RAG*  
+- Delivered personalized financial advice using NLP and reinforcement learning, boosting engagement by 65%.
 
-- ✍🏻 I am a short story writer.
-- 🏸 I play badminton.
-- 🌊 🏊🏻‍♂️ I enjoy beaches and swimming.
+## Certifications
 
-Thanks for stopping by! Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaborations in mind.
+- **CCNA 200-301**
+- **CCNP ENARSI 300-410**
+- **ISTQB Certified – Software Testing**
+- **Agentic AI Systems**
+
+## Let's Connect!
+
+- Email: [akumarm@ncsu.edu](mailto:akumarm@ncsu.edu)  
+- LinkedIn: [linkedin.com/in/akumarm25](https://www.linkedin.com/in/akumarm25)  
+- GitHub: [github.com/akumarm23](https://github.com/akumarm23)
