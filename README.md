@@ -3,46 +3,44 @@
 I have completed my Master's in Computer Networking from NC State. I am interested in Software Development and integrating AI agents.
 
 ## Education
+- **Master of Science, Computer Networking - May 2025**<br>
+North Carolina State University - Raleigh, NC<br>
+_**Relevant Coursework:** Software Engineering, Object-Oriented Design, Algorithms, Data Structures, Devops, Database System,<br> Linux Networking, Internet Protocols, Switched Network Management_
 
-- **M.S. Computer Networking**, North Carolina State University (May 2025)
-  Relevant Coursework: Linux Networking, Software Engineering, Object Oriented Design and Development
-
-- **B.Tech in Electronics & Communication**, Amrita School of Engineering, India (May 2019)
-
-## Technical Skills
-
-- **Languages**: Python, Ruby, JavaScript  
-- **Front-End**: React, Bootstrap 5, Materialize CSS  
-- **Back-End**: Ruby on Rails, Django, Next.js, FastAPI  
-- **AI/LLM Tools**: LangChain, Hugging Face, AutoGen, LangGraph, OpenAI, CrewAI  
-- **Databases**: PostgreSQL, MySQL, SQLite, ChromaDB, FAISS  
-- **DevOps/Cloud**: AWS, Docker, Kubernetes, Git, Ansible, Puppet  
-- **Testing**: RSpec, Postman, Pytest, Zephyr, BrowserStack  
-- **Networking & Protocols**: TCP/IP, OSPF, BGP, EIGRP, VLAN, VPN, IPv6
+- **Bachelor of Technology, Electronics & Communication - May 2019**<br>
+Amrita School of Engineering - Bengaluru, India
 
 ## Work Experience
+- **Software QA Intern - TestPro (Remote - 2023)**
+- **Programmer Analyst - Cognizant (India - 2019)**
 
-### Software Engineer – Cognizant (Aug 2019 – Dec 2022)
+## Projects
+- **Full-Stack Food Delivery Web Application (Mar 2025)**<br>
+_**Tech-Stack:** React, Flask, Supabase (PostgreSQL + Auth), Vercel, Render, TailwindCSS, Axios, React Router, Pytest, Jest_<br>
+Designed a full-stack food delivery web app using React, Flask, Supabase, improving end-to-end feature delivery speed by 75%.
 
-## Featured Projects
+- **Financial Stock Tracker – FullStack Investment Dashboard (Aug 2024)**<br>
+_**Tech-Stack:** React, Node.js, PostgreSQL, Tailwind CSS_<br>
+Developed a full-stack financial dashboard for tracking stock performance and portfolio trends; improved data refresh speed by 50% with efficient REST APIs in Node.js.
 
-### **AI-Driven SaaS Project Management Platform** (Jan – Apr 2025)  
-*Ruby on Rails, PostgreSQL, LangChain, OpenAI API*  
-- Built LLM-powered assistants for sprint planning and Kanban automation, increasing team productivity by 65%.
-
-### **Financial Stock Tracker – AI Investment Advisor** (Aug – Dec 2024)  
-*Rails, LangChain, Hugging Face, RAG*  
-- Delivered personalized financial advice using NLP and reinforcement learning, boosting engagement by 65%.
+## Technical Skills
+- **Front-End:** HTML5, Tailwind-CSS, JavaScript, TypeScript, React, Figma, Material-UI, Next.js
+- **Back-End:** Python, Ruby on Rails, Flask, Django, Node.js, Express.js, FastAPI
+- **Database, OS:** PostgreSQL, MySQL, SQLite, MongoDB, MariaDB, Redis, Supabase, Firebase, Ubuntu, CentOS, Debian
+- **DevOps, Cloud:** AWS, GCP, Azure, Docker, Kubernetes, GitOps, Terraform, Jenkins, Nexus, SonarQube, GitLab, ELK
+- **Testing:** Git, GitHub, Jira, Postman, REST, WebSockets, Pytest, unittest, SQLAlchemy (ORM), Jest, Cypress, Playwright
+- **Automation, Virtualization:** Ansible, Puppet, Vagrant, VMware, KVM, QEMU/libvirt, VirtualBox
+- **Protocols:** TCP, UDP, OSPF, EIGRP, BGP, STP, VLAN, ARP, NAT, HTTP, DNS, DHCP, VPN, IPv4, IPv6, CIDR, ACLs
+- **AI, ML:** Hugging Face, OpenAI SDK, LangChain, LangGraph, AutoGen, CrewAI, GPT-4o, LLaMA3, Claude, RAG
 
 ## Certifications
-
-- **CCNA 200-301**
-- **CCNP ENARSI 300-410**
+- **Meta Front-End Developer Professional Certificate (Coursera)**
+- **Google Professional Cloud Developer**
+- **AWS Certified Developer – Associate**
 - **ISTQB Certified – Software Testing**
 - **Agentic AI Systems**
 
 ## Let's Connect!
-
-- Email: [akumarm@ncsu.edu](mailto:akumarm@ncsu.edu)  
-- LinkedIn: [linkedin.com/in/akumarm25](https://www.linkedin.com/in/akumarm25)  
-- GitHub: [github.com/akumarm23](https://github.com/akumarm23)
+- **Email:** [ak.muniswamy2023@gmail.com](mailto:ak.muniswamy2023@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/akumarm25](https://www.linkedin.com/in/akumarm25)  
+- **GitHub:** [github.com/akumarm23](https://github.com/akumarm23)
